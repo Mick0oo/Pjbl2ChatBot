@@ -13,9 +13,10 @@
 "O quê são as partes robóticas?" - "As partes robóticas são um conjunto de partes (DLC) obtidos por meio de um evento promocional com o Dr Pepper."
 "O quê é Creepy & Cute?" - "Creepy & Cute, também conhecido como C&C, é um conjunto de partes (DLC) que pode ser comprado."
 "O quê é Galactic Adventures?" - "Galactic Adventures, também conhecido como GA, é uma DLC de expansão de conteúdo que pode ser comprada."
-"O quê são cartões?"
 "O quê é a Sporepedia?" - "A Sporepedia é a enciclopédia das criações do Spore. A partir dela pode-se obter conteúdo gerado por usuários. Também existe uma versão offline da Sporedia, sob o mesmo nome, que contém todas as criações disponíveis no armazenamento."
 "O quê são dietas?" - "'Dieta" pode se referir ao cartão de comportamento dado ao finalizar o estágio de célula, ou ao stat atrelado a uma boca."
+"O quê são cartões?" - "Cartões contém as consequências e o comportamento obtido ao fim do estágio."
+"O quê são consequências?" - "Consequências as habilidades atreladas aos comportamentos definidos ao fim de um estágio."
 "O quê são estágios?" - "Estágios são as diferentes seções de um jogo de Spore. Ao final de um estágio se progride ao próximo, cada estágio sendo de um gênero diferente com suas próprias mecânicas."
 "O quê são criadores?" - "Criadores, também conhecidos como editores durante o pré-lançamento, 
 "O quê são editores?" - "'Editores' era a antiga denominação dos Criadores durante a época pré-lançamento do Spore."
