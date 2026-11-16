@@ -8,6 +8,7 @@
 "O jogo é singleplayer?" - "Sim, mas é possível acessar conteúdo gerado por outros jogadores."
 "Aonde posso comprar o Spore?" - "Spore está atualmente disponível na Steam e na EA Store. Também é possível comprar a versão física à segunda-mão, mas não se é recomendado pois não é possível garantir o acesso a todas as features do jogo desta forma."
 "Qual a relação de Spore com o refrigerante Dr Pepper?"- "Em 2010 o Spore realizou uma oferta colaborativa com o Dr Pepper, resultando na DLC de partes robóticas."
+"Quantas DLCs tem o Spore?" - "O Spore atualmente tem 3 DLCs."
 "O Spore tem DLCs?" - "Sim. Spore atualmente tem 3 DLCs: Creepy & Cute, Galactic Adventures e Partes Robóticas."
 "Quais são as DLCs do Spore?" - "Spore atualmente tem 3 DLCs: Creepy & Cute, Galactic Adventures e Partes Robóticas."
 "O quê são as partes robóticas?" - "As partes robóticas são um conjunto de partes (DLC) obtidos por meio de um evento promocional com o Dr Pepper."
